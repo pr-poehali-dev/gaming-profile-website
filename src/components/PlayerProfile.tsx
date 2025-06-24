@@ -41,8 +41,8 @@ const PlayerProfile = ({
 
         <div className="flex-1">
           <h1 className="text-2xl font-bold neon-text text-valorant-cyan">
-            {playerName}
-            <span className="text-valorant-gray-light">#{tagline}</span>
+            Tap Tap
+            <span className="text-valorant-gray-light">#Vota3</span>
           </h1>
           <div className="flex items-center gap-2 mt-2">
             <Icon name="Trophy" className="text-valorant-gold" size={16} />
