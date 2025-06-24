@@ -28,7 +28,7 @@ const PlayerProfile = ({
       <div className="flex items-center gap-6 mb-6">
         <div className="relative">
           <img
-            src={avatar}
+            src="https://cdn.poehali.dev/files/60fe5e63-55d5-4f62-b552-5a3d2e5dcd8e.jpg"
             alt={playerName}
             className="w-20 h-20 rounded-full border-2 border-valorant-cyan"
           />
