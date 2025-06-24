@@ -130,9 +130,7 @@ const Index = () => {
           <h1 className="text-4xl font-bold neon-text text-valorant-cyan animate-glow mb-2">
             VALORANT PROFILE
           </h1>
-          <p className="text-valorant-gray-light">
-            Киберспортивная статистика и прогресс
-          </p>
+          <p className="text-valorant-gray-light"></p>
         </div>
 
         {/* Профиль игрока */}
