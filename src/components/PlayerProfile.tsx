@@ -45,9 +45,7 @@ const PlayerProfile = ({
           </h1>
           <div className="flex items-center gap-2 mt-2">
             <Icon name="Trophy" className="text-valorant-gold" size={16} />
-            <span className="text-valorant-gold font-semibold">
-              {stats.rank}
-            </span>
+            <span className="text-valorant-gold font-semibold">Gold 3</span>
             <span className="text-valorant-gray-light">• {stats.rr} RR</span>
           </div>
         </div>
