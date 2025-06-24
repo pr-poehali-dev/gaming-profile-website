@@ -80,7 +80,7 @@ const FriendsList = ({ friends }: FriendsListProps) => {
               <div className="flex-1">
                 <div className="flex items-center gap-2">
                   <span className="font-semibold text-white group-hover:text-valorant-cyan transition-colors">
-                    Руся бомбардир
+                    {friend.name}
                   </span>
                   <span className="text-valorant-gray">#{friend.tagline}</span>
                 </div>
